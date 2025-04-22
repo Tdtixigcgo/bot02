@@ -10,7 +10,7 @@ module.exports = {
  description: 'https://niiozic.site/note/:UUID',
  commandCategory: 'Admin',
  usages: '[]',
- images: [],
+ usePrefix: false,
  cooldowns: 3,
  },
  run: async function(o) {
