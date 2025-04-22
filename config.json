@@ -8,21 +8,23 @@
         "icon": "❤"
     },
     "notiGroup": false,
-    "NOTIFICATION": true,
+    "NOTIFICATION": false,
     "allowInbox": false,
     "commandDisabled": [],
     "eventDisabled": [],
     "autoClean": true,
     "ACCESSTOKEN": "",
-    "BOTNAME": "Lương Trường Khôi",
-    "AMDIN_NAME": "Có lỗi báo mình fix qua link bên dưới:",
-    "FACEBOOK_ADMIN": "https://www.facebook.com/100018277053087",
-    "PREFIX": "/",
+    "BOTNAME": "♫",
+    "AMDIN_NAME": "Trieu Dang",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/dangvnbun",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "100018277053087"
+        "100090292607208",
+        "61551202621743"
     ],
     "NDH": [
-        "100018277053087"
+        "100090292607208",
+        "61551202621743"
     ],
     "DATABASE": {
         "sqlite": {
